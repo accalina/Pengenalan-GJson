@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "status": {
+        "code": 200,
+        "msg": "ok"
+    },
+    "members": [
+        {
+            "name": "will",
+            "gender": "male"
+        },
+        {
+            "name": "lily",
+            "gender": "female"
+        }
+    ]
+}
